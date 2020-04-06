@@ -1,4 +1,4 @@
-# Python based data acquisition program for investigation based on digital forensic procedures
+# Python based data acquisition program to investigate a hard drive based on digital forensic procedures.
 # Designed for Ubuntu Linux (Debian). Read the prerequisites below.
 
 # Prerequisites
